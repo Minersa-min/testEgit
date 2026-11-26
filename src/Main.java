@@ -6,6 +6,8 @@ public class Main {
         Continent continent = new Continent("Afrique", 30370000f);
         Pays unPays = null;
         Capitale uneCapitale = null;
+        
+        System.out.println("test1234566778833");
 
         int choix = 0;
         do {
